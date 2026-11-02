@@ -3,45 +3,31 @@ Station UX Audit automatise l'analyse de corpus textuels pour Mind Manager grâc
 
 Prérequis
 Python installé sur ton ordinateur.
-
 Un outil d'IA local tel que LLM Studio ou Ollama.
 
 Installation
 Télécharge le projet sur ta machine.
-
 Installe Python si ce n'est pas déjà fait.
-
 Lance l'application en local.
 
 Configuration des modèles
 Privilégie LLM Studio si tu possèdes une carte graphique AMD.
-
 Utilise Ollama si tu es sous Nvidia ou Intel.
-
 Le modèle Mistral Nemo offre d'excellents résultats lors des benchmarks. Réalise tes propres tests selon ton matériel et tes paramètres de température.
 
 Protocoles d'analyse disponibles
 L'application intègre plusieurs méthodes prêtes à l'emploi :
-
 Heuristiques de Nielsen.
-
 Critères de Bastien et Scapin.
-
 Ressenti émotionnel et charge cognitive.
-
 Accessibilité WCAG 2.1.
-
 Taxonomie fermée UX.
-
 Analyse UX structurelle.
-
 Protocoles personnalisés rédigés par tes soins.
-
 Module de test CPU et performance.
 
 Fonctionnalités
 Traitement de grands volumes de textes d'entretiens.
-
 Génération automatique d'une carte mentale pour Mind Manager.
 
 Exportation d'un rapport visuel au format HTML.

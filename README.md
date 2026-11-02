@@ -72,6 +72,8 @@ Exportation d'un rapport visuel au format HTML.
 <img width="1197" height="961" alt="image" src="https://github.com/user-attachments/assets/a8ab75d3-5889-4558-83b9-6854d39bfe73" />
 <img width="1199" height="961" alt="image" src="https://github.com/user-attachments/assets/307df907-3660-4b0e-8c76-a341b3fc5f7f" />
 <img width="1198" height="960" alt="image" src="https://github.com/user-attachments/assets/b90cf886-40c0-4e9d-8b02-103614e4c257" />
+
+Exemple de résultat anonymisé.
 <img width="1669" height="996" alt="image" src="https://github.com/user-attachments/assets/3998b55e-2a70-4eb4-963d-58e1f7e82837" />
 <img width="1661" height="709" alt="image" src="https://github.com/user-attachments/assets/f912fbe3-7262-4f0f-8dd0-07bb45b0be97" />
 
